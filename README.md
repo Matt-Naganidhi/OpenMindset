@@ -4,7 +4,7 @@ OpenMindset is an interdisciplinary open-source project involving several differ
 # How to Contribute
 We welcome contributions from individuals across disciplines: psychologists, neuroscientists, AI researchers, data scientists, software developers, and anyone passionate about mental health. Whether you're interested in contributing code, algorithms, psychological insights, or documentation of your personal experience and how you handle them, your inputs are valuable. See our CONTRIBUTING.md for more details on how to get started.
 
-#Community and Support
+# Community and Support
 Join our vibrant community of members, developers, and researchers. Participate in discussions, share your ideas, and get support from fellow contributors in our Discord channel: https://discord.gg/sgUjuwGvBp
 
 # License
