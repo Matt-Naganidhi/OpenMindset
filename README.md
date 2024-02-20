@@ -8,7 +8,7 @@ The problem with today is that many people live out their lives in extremely ine
 We welcome contributions from individuals across disciplines: psychologists, neuroscientists, AI researchers, data scientists, software developers, and anyone passionate about mental health or solving problems in general. Whether you're interested in contributing code, algorithms, psychological insights, or documentation of your personal experience and how you handle them, your inputs are valuable. See our CONTRIBUTING.md for more details on how to get started.
 
 # Community and Support
-Join our vibrant community of members, developers, and researchers. Participate in discussions, share your ideas, and get support from fellow contributors in our Discord channel: https://discord.gg/sgUjuwGvBp
+Join our vibrant community of members, developers, and researchers. Participate in discussions, share your ideas, and get support from fellow contributors in our Discord server: https://discord.gg/sgUjuwGvBp
 
 # License
 OpenMindset is licensed under  GNU GENERAL PUBLIC LICENSE Version 3, designed to encourage both non-commercial and commercial contributions under specific terms.
