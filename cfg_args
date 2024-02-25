@@ -1,0 +1,1 @@
+Namespace(data_device='cuda', eval=False, images='images', model_path='./output/9644fba7-4', resolution=-1, sh_degree=3, source_path='B:\\Pinokio\\api\\gaussian-splatting-Windows.git\\input_data\\new', white_background=False)
